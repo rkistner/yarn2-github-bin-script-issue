@@ -1,0 +1,12 @@
+
+node_modules
+dist
+
+yarn-error.log
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

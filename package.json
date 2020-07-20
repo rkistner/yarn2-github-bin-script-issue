@@ -1,0 +1,8 @@
+{
+  "name": "@rkistner/yarn2-github-bin-script-issue",
+  "repository": "rkistner/yarn2-github-bin-script-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./bin.js"
+}
