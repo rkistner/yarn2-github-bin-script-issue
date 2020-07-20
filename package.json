@@ -1,8 +1,12 @@
 {
   "name": "@rkistner/yarn2-github-bin-script-issue",
-  "repository": "rkistner/yarn2-github-bin-script-issue",
-  "version": "1.0.0",
+  "repository": "https://github.com/rkistner/yarn2-github-bin-script-issue",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
-  "bin": "./bin.js"
+  "bin": "./bin.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "files": ["bin.js"]
 }
